@@ -1,0 +1,22 @@
+{
+  "name": "workday_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakinzi/day-calculator.git"
+  },
+  "keywords": [],
+  "author": "Rakinzi",
+  "license": "ISC",
+  "dependencies": {
+    "date-holidays": "^3.19.0",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.22"
+  },
+  "type": "module"
+}
